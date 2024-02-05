@@ -2,3 +2,6 @@ body { background-color: #FFF0F5;}
 #nav-table { width: 800px;}
 #nav-td {width: 100px; text-aligh: center;}
 #special-bg { background-image: url('https://github.com/emilylambrecht/emilylambrecht.github.io/blob/main/website%20img/background.jpg?raw=true') 
+#mycats {float: left; } 
+#boba {float: center; } 
+#mdzs {float: right; width: 800px;}
