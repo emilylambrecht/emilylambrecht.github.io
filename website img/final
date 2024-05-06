@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Project</title>
+    <link rel="stylesheet" type:"text/css" href="mystyle.css"> 
+    <style>
+        div {width: 800px;} 
+        #special-bg { background-image: url('https://github.com/emilylambrecht/emilylambrecht.github.io/blob/main/website%20img/background.jpg?raw=true')
+    </style>
+</head>
+<body id="special-bg">
+    <img src="https://github.com/emilylambrecht/emilylambrecht.github.io/blob/main/website%20img/mybanner.jpg?raw=true">
+    <table id="nav-table">   
+        <tbody>
+            <tr>
+                <td id="nav-td"> <a href="index.html"><img src="https://github.com/emilylambrecht/emilylambrecht.github.io/blob/main/website%20img/home.png?raw=true" alt = "Home"></a></td>
+                <td id="nav-td"><a href="javascripts.html"><img src="https://github.com/emilylambrecht/emilylambrecht.github.io/blob/main/website%20img/javascripts.png?raw=true" alt="Javascripts"></a></td> 
+                <td id="nav-td"> <a href="aboutme.html"><img src="https://github.com/emilylambrecht/emilylambrecht.github.io/blob/main/website%20img/aboutme.png?raw=true" alt="About Me"></a></td>
+                <td id = "nav-td> <a href="final.html"><img src="https://github.com/emilylambrecht/emilylambrecht.github.io/blob/main/website%20img/final.png?raw=true" alt="Final"></a></td>
+            </tr> 
+        </tbody>
+    </table>  
+        <p id="special-p">Hi! My name is Emily Lambrecht. I am a college sophmore with a double major in English Creative Writing and Chinese.<br> 
+            I like to read, listen to music, and play video games. My favorite genre of books, tv, and video games is fantasy. <br> 
+            My favorite book is Grandmaster of Demonic Cultivation and I'm currently reading Heaven Official's Blessing. I don't <br>
+            have a favorite video game because I am playing three at the moment. </p>
+
+            <p id="special-p">I am originally from Colorado but moved to Washington after fourth grade. My family moved to New Hampshire after I <br>
+            with middle school. Most of my extended family lives in New Hampshire so I got a chance to grow closer with them. <br> 
+            When I'm back home I like to get an iced chai latte from Aroma Joe's. They have the best iced chai's in New England. <br> 
+            My favorite season is Autumn because I like how pretty everything looks when the leaves are changing colors.</p> 
+        </p> 
+    </body>
+</html>
